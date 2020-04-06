@@ -1,2 +1,2 @@
-# JavaScript Project
-Digital Analog Clock
+# Digital Analog Clock 
+JavaScript Project
